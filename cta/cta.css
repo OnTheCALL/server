@@ -1,0 +1,51 @@
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+.vhc-text {
+    font-size: 25px;
+    line-height: 50px;
+}
+
+.vhc-logo {
+    height: 50px;
+    margin:10px 16px 10px 0;
+}
+
+.status {
+    float: right;
+    height: 50px;
+    margin: 10px 0 10px 16px;
+    padding: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+
+
+/*  COLOR  */
+
+.status-dispo {
+    background-color: green;
+    color: white;
+}
+.status-aller {
+    background-color: orange;
+    color: white;
+}
+.status-inter {
+    background-color: red;
+    color: white;
+}
+.status-ch {
+    background-color: purple;
+    color: white;
+}
+.status-retour {
+    background-color: #388FE6;
+    color: white;
+}
+.status-indispo {
+    background-color: black;
+    color: white;
+}

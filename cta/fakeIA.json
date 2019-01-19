@@ -1,0 +1,19 @@
+{
+    "comment allez vous ?" : "ask_state",
+    "vous avez mal ?"  :"ask_state",
+    "ou avez vous mal ?" : "ask_state",
+    "sa vous fait mal ici ?" : "ask_state",
+    "vous avez mal quelque part ?" : "ask_state",
+
+    "que s'est-il passez ?" : "ask_what_passed",
+    "que vous est il arrivez ?" : "ask_what_passed",
+    "vous vous souvenez de ce qui est arrivez ?" : "ask_what_passed",
+    "vous souvenez vous de ce qui s'est passez ?" : "ask_what_passed",
+
+    "bonjour" : "salutation",
+    "bonsoir" : "salutation",
+    "salut" : "salutation",
+    "yo" : "salutation",
+    "coucou" : "salutation",
+    "c'est les pompier" : "salutation"
+}

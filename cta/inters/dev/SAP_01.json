@@ -1,0 +1,22 @@
+{
+    "Tag" : "SAP_01",
+    "FullName" : "Malaise au Parc",
+    "Victimes" : [
+        {
+            "ID" : 0,
+            "Start" : {
+                "Consciensous" : "no",
+                "Breath" : "__yes",
+                "IDcard" : "__%50",
+                "HurtZones" : [
+                    "Plaie ouverte au bras gauche"
+                ],
+                "pos" : { "x":-63.32, "y":-20.85, "z":-8, "rot":57.16 }
+            },
+            "Probability" : {
+                "RCP" : 10,
+                "O2" : 25
+            }
+        }
+    ]
+}
